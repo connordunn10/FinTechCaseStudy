@@ -1,0 +1,2 @@
+# FinTechCaseStudy
+Homework 1
