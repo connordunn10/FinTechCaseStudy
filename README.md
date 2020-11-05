@@ -10,7 +10,7 @@ FinTech BootCamp
 Chime: Online Banking for the Future
 ====================================
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fchime&psig=AOvVaw1_H81LWiXPuTeo2EscSPVQ&ust=1604633719469000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiDgbG96uwCFQAAAAAdAAAAABAD
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chime, the online personal banking platform, was envisioned and started by Chris Britt CEO & Ryan King CTO in 2013. There is little to no information from the Chime co-founders as to how they came up with the idea to become an alternative banking company. On their website’s mission statement, it states that they “created Chime because [they] believe everyone deserves financial peace of mind” in order to “members get ahead by making managing money easy” (Chime).
 
