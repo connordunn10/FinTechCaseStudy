@@ -3,15 +3,13 @@ Connor Dunn
 
 FinTech BootCamp
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Chime](https://user-images.githubusercontent.com/72525201/98195810-42639300-1ee8-11eb-853c-13aca69a4145.jpg)
 10/31/2020
-![Chime](https://user-images.githubusercontent.com/72525201/98195810-42639300-1ee8-11eb-853c-13aca69a4145.jpg)
 
 
 Chime: Online Banking for the Future
 ====================================
 
-![Chime](https://user-images.githubusercontent.com/72525201/98195810-42639300-1ee8-11eb-853c-13aca69a4145.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chime, the online personal banking platform, was envisioned and started by Chris Britt CEO & Ryan King CTO in 2013. There is little to no information from the Chime co-founders as to how they came up with the idea to become an alternative banking company. On their website’s mission statement, it states that they “created Chime because [they] believe everyone deserves financial peace of mind” in order to “members get ahead by making managing money easy” (Chime).
 
