@@ -3,6 +3,7 @@ FinTech BootCamp
 10/31/2020
 
 Chime: Online banking for the Future
+
 Chime, the online personal banking platform, was envisioned and started by Chris Britt CEO & Ryan King CTO in 2013. There is little to no information from the Chime co-founders as to how they came up with the idea to become an alternative banking company. On their website’s mission statement, it states that they “created Chime because [they] believe everyone deserves financial peace of mind” in order to “members get ahead by making managing money easy” (Chime).
 As of 10/26/2020, Chime is reported to be valued at $14.5 billion and raised over $1 billion. Built In San Francisco, an online community, also details that Chime is funded by “leading investors including DST, Coatue, Tiger Global, General Atlantic, Iconiq, Dragoneer, Menlo, Whale Rock, Access, Forerunner …and others” (builtinsf.com). Many of such are technology centric venture capital investors.
 Forbes “Chime Review-The Pros and Cons” indicates how Chime solving inherent issues in personal banking through the simplification of account options “with one checking account, one savings account and one secured credit card,” all of which is presented on one mobile app. In an attempt to disrupt the traditional banking system, each of the previously mentioned accounts do away with the burdensome constraint of fees, lack of automated savings and a required credit score to open an account.
